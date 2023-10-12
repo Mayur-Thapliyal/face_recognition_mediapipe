@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+face_reco_venv/
+
 
 # Spyder project settings
 .spyderproject
